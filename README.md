@@ -1,3 +1,1 @@
-## 블로그 포스팅과 커스터마이징 하는 공간입니다. 😀💛
-
-<https://ansohxxn.github.io>
+<https://ansohxxn.github.io> 에 올려주신 블로그 구조를 참고하여 만들고있는 블로그입니다.
